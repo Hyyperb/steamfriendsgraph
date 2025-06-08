@@ -18,3 +18,4 @@
 - the graphml file can be opened with a tool like Gephi for further visualisation or analysis
 - networkx object in python can be used conveniently for further scripting and analysis
 - all pages fetched are stored in `./cache/` can be used for extracting more information
+- recursion can be implemented to get a graph of any depth
